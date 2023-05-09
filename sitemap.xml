@@ -52,7 +52,13 @@
     <loc>https://preview.carpentries.org/git-novice/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/git-novice/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/git-novice/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/git-novice/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/git-novice/index.html</loc>
@@ -109,16 +115,34 @@
     <loc>https://preview.carpentries.org/git-novice/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/git-novice/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/git-novice/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/git-novice/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/git-novice/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/git-novice/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/git-novice/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/git-novice/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/git-novice/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/git-novice/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/git-novice/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/git-novice/profiles.html</loc>
